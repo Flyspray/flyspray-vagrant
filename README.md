@@ -1,7 +1,9 @@
 # flyspray-vagrant
 vagrant boxes for Flyspray development and testing
 
-The intention of this project is to provide several Vagrantfile 's for development, manual and automated testing of Flyspray.
+The intention of this project is to provide several Vagrantfiles for development, manual and automated testing of Flyspray.
+
+Currently one Vagrantfile exists for testing Flyspray with LDAP (slapd) based on Debian 10 "Buster".
 
 OS Linux flavours: Debian/Ubuntu, SuSE/openSuSE, arch, centos/Redhat-IBM
 Windows Server: maybe
