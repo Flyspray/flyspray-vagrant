@@ -19,8 +19,10 @@ sudo mysql
 ```
 
 #### LDAP (slapd)
+```
 users: alice, bob, ..., henry
 user passwords: password (for all demo users)
+```
 
 ## INSTALL
 
